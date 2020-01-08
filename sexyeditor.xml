@@ -1,0 +1,18 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="D:\电脑壁纸\0d20fd0a914072a291130f1de67d30c0.jpg" />
+            </array>
+          </option>
+          <option name="opacity" value="0.14" />
+          <option name="position" value="0" />
+          <option name="shrinkValue" value="100" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
